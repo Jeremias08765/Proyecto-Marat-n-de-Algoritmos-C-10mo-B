@@ -1,4 +1,3 @@
-Ejercicio 1: Leer un número y mostrarlo
 #include <iostream>
 using namespace std;
 int main() {
@@ -8,4 +7,3 @@ int main() {
     cout << "El numero ingresado es: " << num;
     return 0;
 }
-cpp
