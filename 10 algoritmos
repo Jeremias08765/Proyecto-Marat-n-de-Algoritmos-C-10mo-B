@@ -1,0 +1,127 @@
+Ejercicio 1: Leer un número y mostrarlo
+#include <iostream>
+using namespace std;
+int main() {
+    int num;
+    cout << "Ingrese un numero: ";
+    cin >> num;
+    cout << "El numero ingresado es: " << num;
+    return 0;
+}
+cpp
+
+
+Ejercicio 2: Leer dos números y mostrarlos
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b;
+    cout << "Ingrese dos numeros: ";
+    cin >> a >> b;
+    cout << "Los numeros son: " << a << " y " << b;
+    return 0;
+}
+cpp
+
+
+Ejercicio 3: Leer un número y mostrar el doble
+#include <iostream>
+using namespace std;
+int main() {
+    int num;
+    cout << "Ingrese un numero: ";
+    cin >> num;
+    cout << "El doble es: " << num * 2;
+    return 0;
+}
+cpp
+
+
+Ejercicio 4: Leer un número y mostrar el triple
+#include <iostream>
+using namespace std;
+int main() {
+    int num;
+    cout << "Ingrese un numero: ";
+    cin >> num;
+    cout << "El triple es: " << num * 3;
+    return 0;
+}
+cpp
+
+
+Ejercicio 5: Leer un número y mostrar la mitad
+#include <iostream>
+using namespace std;
+int main() {
+    float num;
+    cout << "Ingrese un numero: ";
+    cin >> num;
+    cout << "La mitad es: " << num / 2;
+    return 0;
+}
+cpp
+
+
+Ejercicio 6: Leer dos números y mostrar la suma
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b;
+    cout << "Ingrese dos numeros: ";
+    cin >> a >> b;
+    cout << "La suma es: " << a + b;
+    return 0;
+}
+cpp
+Copiar código
+
+Ejercicio 7: Leer dos números y mostrar la resta
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b;
+    cout << "Ingrese dos numeros: ";
+    cin >> a >> b;
+    cout << "La resta es: " << a - b;
+    return 0;
+}
+cpp
+
+
+Ejercicio 8: Leer dos números y mostrar la multiplicación
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b;
+    cout << "Ingrese dos numeros: ";
+    cin >> a >> b;
+    cout << "El producto es: " << a * b;
+    return 0;
+}
+cpp
+
+
+Ejercicio 9: Leer dos números y mostrar la división
+#include <iostream>
+using namespace std;
+int main() {
+    float a, b;
+    cout << "Ingrese dos numeros: ";
+    cin >> a >> b;
+    cout << "La division es: " << a / b;
+    return 0;
+}
+cpp
+
+
+Ejercicio 10: Leer tres números y mostrarlos
+#include <iostream>
+using namespace std;
+int main() {
+    int a, b, c;
+    cout << "Ingrese tres numeros: ";
+    cin >> a >> b >> c;
+    cout << "Los numeros son: " << a << ", " << b << ", " << c;
+    return 0;
+}
