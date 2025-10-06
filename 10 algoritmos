@@ -74,7 +74,7 @@ int main() {
     return 0;
 }
 cpp
-Copiar código
+
 
 Ejercicio 7: Leer dos números y mostrar la resta
 #include <iostream>
