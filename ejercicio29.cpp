@@ -1,1 +1,10 @@
 
+#include <iostream>
+using namespace std;
+int main() {
+    int n;
+    cout << "Numero: ";
+    cin >> n;
+    cout << "Triple: " << n*3;
+    return 0;
+}
